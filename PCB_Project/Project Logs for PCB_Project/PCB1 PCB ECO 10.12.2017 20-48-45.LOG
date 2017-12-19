@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SD_CS Pin=U1-10
+Removed Pin From Net: NetName=RF_CS Pin=U1-32
+Added Pin To Net: NetName=RF_CS Pin=U1-10
+Added Pin To Net: NetName=SD_CS Pin=U1-32
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_sensor

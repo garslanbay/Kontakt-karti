@@ -1,0 +1,27 @@
+Added Component: Designator=J1(614105150621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/614105150621.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "Type AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "614105150621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "April 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "Micro USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Vertical"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5v Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-Shell
+Added Pin To Net: NetName=GND Pin=J1-Shell
+Added Member To Class: ClassName=U_sensor Member=Component C9 4.7uF
+Added Member To Class: ClassName=U_sensor Member=Component C9 1uF
+Added Member To Class: ClassName=U_sensor Member=Component J1 614105150621
+Added Member To Class: ClassName=U_sensor Member=Component R1 47K
+Added Member To Class: ClassName=U_sensor Member=Component R1 47K
+Added Member To Class: ClassName=U_sensor Member=Component R1 1K
+Added Member To Class: ClassName=U_sensor Member=Component R1 680R
+Added Member To Class: ClassName=U_sensor Member=Component R1 1K
+Added Member To Class: ClassName=U_sensor Member=Component R1 1K

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetBATH1_1 Pin=BATH1-1
+Removed Pin From Net: NetName=GND Pin=BATH1-2
+Change Component Footprint: Designator=BATH1 Old Footprint=BATH_KEYSTONE_103 New Footprint=BATH_KEYSTONE_3000
+Change component parameters: Designator = "BATH1"; Footprint = "BATH_KEYSTONE_3000"; UniqueID = "\AFFFQCLX\UMCBRJAV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "3.17mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "17.04.2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Battery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\BATH_KEYSTONE_3000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17.04.2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SMD Battery Holders for BR1216, CR1216, BR1220, CL1220, CR1220, BR1225 Coin Cells"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMD Battery Holders for BR1216, CR1216, BR1220, CL1220, CR1220, BR1225 Coin Cells"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BATH_KEYSTONE_3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Table"; Value = "Batteries"; VariantName = "[No Variations]"
+Added Component: Designator=BATH2(BATH_KEYSTONE_3000)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "3.17mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "17.04.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Battery"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\BATH_KEYSTONE_3000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17.04.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Battery Holders for BR1216, CR1216, BR1220, CL1220, CR1220, BR1225 Coin Cells"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Battery Holders for BR1216, CR1216, BR1220, CL1220, CR1220, BR1225 Coin Cells"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BATH_KEYSTONE_3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Table"; Value = "Batteries"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_1 Pin=BATH1-2
+Added Pin To Net: NetName=NetBATH1_1 Pin=BATH2-1
+Added Pin To Net: NetName=NetBATH1_1 Pin=BATH2-1
+Added Pin To Net: NetName=GND Pin=BATH2-2
+Change Net Name : Old Net Name=NetBATH1_1 New Net Name=NetBATH2_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetBATH1_2
+Added Member To Class: ClassName=U_power Member=Component BATH2 Value

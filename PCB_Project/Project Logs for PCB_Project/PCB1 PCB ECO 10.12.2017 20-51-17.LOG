@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IRQ Pin=U1-7
+Removed Pin From Net: NetName=RF_CS Pin=U1-10
+Added Pin To Net: NetName=RF_CS Pin=U1-7
+Added Pin To Net: NetName=IRQ Pin=U1-10
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_sensor

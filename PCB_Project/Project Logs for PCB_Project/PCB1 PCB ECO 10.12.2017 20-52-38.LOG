@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=2V5 Pin=H1-1
+Added Pin To Net: NetName=2V5 Pin=H1-4
+Added Pin To Net: NetName=2V5 Pin=H1-8
+Added Pin To Net: NetName=2V5 Pin=P8-2
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_sensor

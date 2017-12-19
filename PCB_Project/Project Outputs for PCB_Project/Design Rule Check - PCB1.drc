@@ -1,0 +1,58 @@
+Protel Design System Design Rule Check
+PCB File : D:\programlar\RF Coklu proje\Kontakt karti\PCB_Project\PCB1.PcbDoc
+Date     : 17.12.2017
+Time     : 00:15:40
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InNamedPolygon('NETB1_2_L02_P006')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 6mil) Between Via (775mil,1187.5mil) from Top Layer to Bottom Layer And Pad R5-2(775mil,1199.803mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 6mil) Between Track (675mil,1199.803mil)(775mil,1199.803mil) on Top Layer And Via (775mil,1187.5mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Via (775mil,1187.5mil) from Top Layer to Bottom Layer And Pad R5-2(775mil,1199.803mil) on Top Layer Location : [X = 3951.335mil][Y = 9359.772mil]
+   Violation between Short-Circuit Constraint: Between Track (675mil,1199.803mil)(775mil,1199.803mil) on Top Layer And Via (775mil,1187.5mil) from Top Layer to Bottom Layer Location : [X = 3950.062mil][Y = 9368.849mil]
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad H1-6(450mil,-150mil) on Top Layer [Unplated] And Via (525mil,162.5mil) from Top Layer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=15mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (775mil,1187.5mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (875mil,37.5mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:02

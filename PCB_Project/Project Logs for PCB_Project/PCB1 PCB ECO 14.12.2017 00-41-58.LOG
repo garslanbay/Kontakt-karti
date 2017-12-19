@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=U_mcu Member=C13
+Change Component Designator: OldDesignator=BATH2 NewDesignator=BATH1
+Change Component Designator: OldDesignator=C3 NewDesignator=C11
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C9 NewDesignator=C16
+Change Component Designator: OldDesignator=C9 NewDesignator=C18
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=P8 NewDesignator=P2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R1 NewDesignator=R12
+Change Component Designator: OldDesignator=R1 NewDesignator=R13
+Change Component Designator: OldDesignator=R1 NewDesignator=R14
+Change Component Designator: OldDesignator=R1 NewDesignator=R15
+Change Component Designator: OldDesignator=R1 NewDesignator=R16
+Change Component Designator: OldDesignator=R1 NewDesignator=R17
+Change Component Designator: OldDesignator=R1 NewDesignator=R18
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Net Name : Old Net Name=NetBATH2_1 New Net Name=NetBATH1_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R12-2
+Added Pin To Net: NetName=NetC16_2 Pin=R13-2
+Added Pin To Net: NetName=NetC16_2 Pin=U3-5
+Added Pin To Net: NetName=NetC16_2 Pin=U3-10
+Added Pin To Net: NetName=NetC16_2 Pin=U3-11
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U3-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U3-14
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U3-12
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=U_mcu Member=Component C11 22pF
+Added Member To Class: ClassName=U_sensor Member=Component C17 1uF
+Added Member To Class: ClassName=U_sensor Member=Component R13 1K
+Added Member To Class: ClassName=U_sensor Member=Component R14 47K
+Added Member To Class: ClassName=U_sensor Member=Component R15 47K
+Added Member To Class: ClassName=U_sensor Member=Component R16 47K
+Added Member To Class: ClassName=U_sensor Member=Component R17 1K
+Added Member To Class: ClassName=U_sensor Member=Component R18 680R
